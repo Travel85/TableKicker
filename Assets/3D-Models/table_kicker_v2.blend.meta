@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 1d57438893d09814eb60e0edd4ad304d
+timeCreated: 1437211577
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cone
+    100002: Cone_001
+    100004: Cone_002
+    100006: Cone_003
+    100008: Cube
+    100010: Cube_002
+    100012: Cube_003
+    100014: Cylinder_001
+    100016: Cylinder_002
+    100018: Cylinder_003
+    100020: Cylinder_004
+    100022: dummy_bare_placer
+    100024: Leg
+    100026: Leg_001
+    100028: Leg_002
+    100030: Leg_003
+    100032: Table_Kicker_modeled
+    100034: //RootNode
+    100036: Corner1
+    100038: Corner1_001
+    100040: Corner2
+    100042: Corner2_001
+    100044: Bar001
+    100046: Bar002
+    100048: Bar003
+    100050: Bar1
+    100052: Bar2
+    100054: Bar3
+    100056: Counter_Bar
+    100058: Counter_Bar_001
+    400000: Cone
+    400002: Cone_001
+    400004: Cone_002
+    400006: Cone_003
+    400008: Cube
+    400010: Cube_002
+    400012: Cube_003
+    400014: Cylinder_001
+    400016: Cylinder_002
+    400018: Cylinder_003
+    400020: Cylinder_004
+    400022: dummy_bare_placer
+    400024: Leg
+    400026: Leg_001
+    400028: Leg_002
+    400030: Leg_003
+    400032: Table_Kicker_modeled
+    400034: //RootNode
+    400036: Corner1
+    400038: Corner1_001
+    400040: Corner2
+    400042: Corner2_001
+    400044: Bar001
+    400046: Bar002
+    400048: Bar003
+    400050: Bar1
+    400052: Bar2
+    400054: Bar3
+    400056: Counter_Bar
+    400058: Counter_Bar_001
+    2300000: Cone
+    2300002: Cone_001
+    2300004: Cone_002
+    2300006: Cone_003
+    2300008: Cube
+    2300010: Cube_002
+    2300012: Cube_003
+    2300014: Cylinder_001
+    2300016: Cylinder_002
+    2300018: Cylinder_003
+    2300020: Cylinder_004
+    2300022: dummy_bare_placer
+    2300024: Leg
+    2300026: Leg_001
+    2300028: Leg_002
+    2300030: Leg_003
+    2300032: Corner1
+    2300034: Corner1_001
+    2300036: Corner2
+    2300038: Corner2_001
+    2300040: Bar001
+    2300042: Bar002
+    2300044: Bar003
+    2300046: Bar1
+    2300048: Bar2
+    2300050: Bar3
+    3300000: Cone
+    3300002: Cone_001
+    3300004: Cone_002
+    3300006: Cone_003
+    3300008: Cube
+    3300010: Cube_002
+    3300012: Cube_003
+    3300014: Cylinder_001
+    3300016: Cylinder_002
+    3300018: Cylinder_003
+    3300020: Cylinder_004
+    3300022: dummy_bare_placer
+    3300024: Leg
+    3300026: Leg_001
+    3300028: Leg_002
+    3300030: Leg_003
+    3300032: Corner1
+    3300034: Corner1_001
+    3300036: Corner2
+    3300038: Corner2_001
+    3300040: Bar001
+    3300042: Bar002
+    3300044: Bar003
+    3300046: Bar1
+    3300048: Bar2
+    3300050: Bar3
+    4300000: dummy_bare_placer
+    4300002: Cube_003
+    4300004: Cube_002
+    4300006: Cylinder_004
+    4300008: Cylinder_003
+    4300010: Cylinder_002
+    4300012: Cylinder_001
+    4300014: Cone_003
+    4300016: Cone_002
+    4300018: Cone_001
+    4300020: Cone
+    4300022: Leg_003
+    4300024: Leg_002
+    4300026: Leg_001
+    4300028: Leg
+    4300030: Cube
+    4300032: Corner1_001
+    4300034: Corner2_001
+    4300036: Corner2
+    4300038: Corner1
+    4300040: Bar001
+    4300042: Bar002
+    4300044: Bar003
+    4300046: Bar1
+    4300048: Bar2
+    4300050: Bar3
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

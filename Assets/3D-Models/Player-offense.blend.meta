@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: b16bc54c04f922a4c89dd41d31a0e142
+timeCreated: 1437221153
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bar
+    100002: Body
+    100004: Body_002
+    100006: Body_004
+    100008: Handle
+    100010: Handle_Bar
+    100012: Head_001
+    100014: Head_002
+    100016: Head_004
+    100018: Neck_000
+    100020: Neck_002
+    100022: Neck_004
+    100024: //RootNode
+    100026: Player1
+    100028: Player1_001
+    100030: Player1_003
+    100032: Spring1
+    100034: Spring2
+    400000: bar
+    400002: Body
+    400004: Body_002
+    400006: Body_004
+    400008: Handle
+    400010: Handle_Bar
+    400012: Head_001
+    400014: Head_002
+    400016: Head_004
+    400018: Neck_000
+    400020: Neck_002
+    400022: Neck_004
+    400024: //RootNode
+    400026: Player1
+    400028: Player1_001
+    400030: Player1_003
+    400032: Spring1
+    400034: Spring2
+    2300000: bar
+    2300002: Body
+    2300004: Body_002
+    2300006: Body_004
+    2300008: Handle
+    2300010: Head_001
+    2300012: Head_002
+    2300014: Head_004
+    2300016: Neck_000
+    2300018: Neck_002
+    2300020: Neck_004
+    2300022: Spring1
+    2300024: Spring2
+    3300000: bar
+    3300002: Body
+    3300004: Body_002
+    3300006: Body_004
+    3300008: Handle
+    3300010: Head_001
+    3300012: Head_002
+    3300014: Head_004
+    3300016: Neck_000
+    3300018: Neck_002
+    3300020: Neck_004
+    3300022: Spring1
+    3300024: Spring2
+    4300000: Head_004
+    4300002: Body_004
+    4300004: Neck_004
+    4300006: Head_002
+    4300008: Body_002
+    4300010: Neck_002
+    4300012: Spring2
+    4300014: Spring1
+    4300016: Handle
+    4300018: bar
+    4300020: Neck_000
+    4300022: Body
+    4300024: Head_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
